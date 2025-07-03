@@ -3,6 +3,8 @@ Hi there! 👋 I'm Shivi Singh, Full Stack Web Developer with hands-on experienc
 
 
 ## 🌐 Socials:
+Have a project idea, a tech query, or want to say hi? Reach me at:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivi-singh-5237142aa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivi5053singh@gmail.com) 
 
 # 💻 Tech Stack:
